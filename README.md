@@ -1,1 +1,4 @@
-Hi, i've made some organizer for my tools like screwdrivers etc., made to fit in a drawer
+
+# File organizer in python
+
+HI, i've coded this file organizer using python, 
